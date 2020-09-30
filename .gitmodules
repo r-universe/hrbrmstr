@@ -1,3 +1,60 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "cdcfluview"]
+	path = cdcfluview
+	url = https://github.com/hrbrmstr/cdcfluview
+	shallow = true
+[submodule "censys"]
+	path = censys
+	url = https://github.com/hrbrmstr/censys
+	shallow = true
+[submodule "darksky"]
+	path = darksky
+	url = https://github.com/hrbrmstr/darksky
+	shallow = true
+[submodule "epidata"]
+	path = epidata
+	url = https://github.com/hrbrmstr/epidata
+	shallow = true
+[submodule "ggalt"]
+	path = ggalt
+	url = https://github.com/hrbrmstr/ggalt
+	shallow = true
+[submodule "hrbrthemes"]
+	path = hrbrthemes
+	url = https://github.com/hrbrmstr/hrbrthemes
+	shallow = true
+[submodule "iptools"]
+	path = iptools
+	url = https://github.com/hrbrmstr/iptools
+	shallow = true
+[submodule "metricsgraphics"]
+	path = metricsgraphics
+	url = https://github.com/hrbrmstr/metricsgraphics
+	shallow = true
+[submodule "qrencoder"]
+	path = qrencoder
+	url = https://github.com/hrbrmstr/qrencoder
+	shallow = true
+[submodule "slackr"]
+	path = slackr
+	url = https://github.com/hrbrmstr/slackr
+	shallow = true
+[submodule "swatches"]
+	path = swatches
+	url = https://github.com/hrbrmstr/swatches
+	shallow = true
+[submodule "vegalite"]
+	path = vegalite
+	url = https://github.com/hrbrmstr/vegalite
+	shallow = true
+[submodule "voteogram"]
+	path = voteogram
+	url = https://github.com/hrbrmstr/voteogram
+	shallow = true
+[submodule "waffle"]
+	path = waffle
+	url = https://github.com/hrbrmstr/waffle
+	shallow = true
