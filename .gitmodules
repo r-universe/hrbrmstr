@@ -39,10 +39,6 @@
 	path = qrencoder
 	url = https://github.com/hrbrmstr/qrencoder
 	shallow = true
-[submodule "slackr"]
-	path = slackr
-	url = https://github.com/hrbrmstr/slackr
-	shallow = true
 [submodule "swatches"]
 	path = swatches
 	url = https://github.com/hrbrmstr/swatches
