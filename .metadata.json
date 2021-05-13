@@ -1,0 +1,54 @@
+[
+  {
+    "package": "cdcfluview",
+    "oncran": true
+  },
+  {
+    "package": "censys",
+    "oncran": true
+  },
+  {
+    "package": "darksky",
+    "oncran": true
+  },
+  {
+    "package": "epidata",
+    "oncran": true
+  },
+  {
+    "package": "ggalt",
+    "oncran": true
+  },
+  {
+    "package": "hrbrthemes",
+    "oncran": true
+  },
+  {
+    "package": "iptools",
+    "oncran": true
+  },
+  {
+    "package": "metricsgraphics",
+    "oncran": true
+  },
+  {
+    "package": "qrencoder",
+    "oncran": true
+  },
+  {
+    "package": "swatches",
+    "oncran": true
+  },
+  {
+    "package": "vegalite",
+    "oncran": true
+  },
+  {
+    "package": "voteogram",
+    "oncran": true
+  },
+  {
+    "package": "waffle",
+    "oncran": true
+  }
+]
