@@ -28,10 +28,6 @@
     "oncran": true
   },
   {
-    "package": "metricsgraphics",
-    "oncran": true
-  },
-  {
     "package": "qrencoder",
     "oncran": true
   },
