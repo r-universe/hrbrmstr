@@ -38,6 +38,11 @@
 	url = https://github.com/hrbrmstr/iptools
 	shallow = true
 	registered = true
+[submodule "metricsgraphics"]
+	path = metricsgraphics
+	url = https://github.com/hrbrmstr/metricsgraphics
+	shallow = true
+	registered = true
 [submodule "qrencoder"]
 	path = qrencoder
 	url = https://github.com/hrbrmstr/qrencoder
