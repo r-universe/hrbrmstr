@@ -32,6 +32,10 @@
     "oncran": true
   },
   {
+    "package": "ndjson",
+    "oncran": true
+  },
+  {
     "package": "qrencoder",
     "oncran": true
   },

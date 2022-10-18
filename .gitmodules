@@ -43,6 +43,11 @@
 	url = https://github.com/hrbrmstr/metricsgraphics
 	shallow = true
 	registered = true
+[submodule "ndjson"]
+	path = ndjson
+	url = https://github.com/hrbrmstr/ndjson
+	shallow = true
+	registered = true
 [submodule "qrencoder"]
 	path = qrencoder
 	url = https://github.com/hrbrmstr/qrencoder
