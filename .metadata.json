@@ -40,6 +40,10 @@
     "oncran": true
   },
   {
+    "package": "spiderbar",
+    "oncran": true
+  },
+  {
     "package": "swatches",
     "oncran": true
   },

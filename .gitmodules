@@ -53,6 +53,11 @@
 	url = https://github.com/hrbrmstr/qrencoder
 	shallow = true
 	registered = true
+[submodule "spiderbar"]
+	path = spiderbar
+	url = https://github.com/hrbrmstr/spiderbar
+	shallow = true
+	registered = true
 [submodule "swatches"]
 	path = swatches
 	url = https://github.com/hrbrmstr/swatches
