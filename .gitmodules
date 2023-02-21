@@ -33,11 +33,6 @@
 	url = https://github.com/hrbrmstr/hrbrthemes
 	shallow = true
 	registered = true
-[submodule "iptools"]
-	path = iptools
-	url = https://github.com/hrbrmstr/iptools
-	shallow = true
-	registered = true
 [submodule "metricsgraphics"]
 	path = metricsgraphics
 	url = https://github.com/hrbrmstr/metricsgraphics
@@ -76,5 +71,10 @@
 [submodule "waffle"]
 	path = waffle
 	url = https://github.com/hrbrmstr/waffle
+	shallow = true
+	registered = true
+[submodule "iptools"]
+	path = iptools
+	url = https://github.com/hrbrmstr/iptools
 	shallow = true
 	registered = true

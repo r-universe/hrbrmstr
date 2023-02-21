@@ -24,10 +24,6 @@
     "oncran": true
   },
   {
-    "package": "iptools",
-    "oncran": true
-  },
-  {
     "package": "metricsgraphics",
     "oncran": true
   },
@@ -58,5 +54,8 @@
   {
     "package": "waffle",
     "oncran": true
+  },
+  {
+    "package": "iptools"
   }
 ]
