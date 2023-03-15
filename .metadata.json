@@ -1,37 +1,14 @@
 [
   {
-    "package": "censys",
-    "oncran": true
-  },
-  {
-    "package": "vegalite",
-    "oncran": true
-  },
-  {
-    "package": "metricsgraphics",
-    "oncran": true
-  },
-  {
-    "package": "spiderbar",
-    "oncran": true
-  },
-  {
-    "package": "iptools"
-  },
-  {
-    "package": "darksky",
-    "oncran": true
-  },
-  {
-    "package": "ggalt",
-    "oncran": true
-  },
-  {
     "package": "cdcfluview",
     "oncran": true
   },
   {
-    "package": "swatches",
+    "package": "censys",
+    "oncran": true
+  },
+  {
+    "package": "darksky",
     "oncran": true
   },
   {
@@ -39,7 +16,38 @@
     "oncran": true
   },
   {
+    "package": "ggalt",
+    "oncran": true
+  },
+  {
+    "package": "hrbrthemes",
+    "oncran": true
+  },
+  {
+    "package": "iptools"
+  },
+  {
+    "package": "metricsgraphics",
+    "oncran": true
+  },
+  {
+    "package": "ndjson",
+    "oncran": true
+  },
+  {
     "package": "qrencoder",
+    "oncran": true
+  },
+  {
+    "package": "spiderbar",
+    "oncran": true
+  },
+  {
+    "package": "swatches",
+    "oncran": true
+  },
+  {
+    "package": "vegalite",
     "oncran": true
   },
   {
@@ -48,14 +56,6 @@
   },
   {
     "package": "waffle",
-    "oncran": true
-  },
-  {
-    "package": "ndjson",
-    "oncran": true
-  },
-  {
-    "package": "hrbrthemes",
     "oncran": true
   }
 ]
