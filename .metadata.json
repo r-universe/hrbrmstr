@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "cymruservices",
+    "oncran": true
+  },
+  {
     "package": "darksky",
     "oncran": true
   },
@@ -27,6 +31,10 @@
     "package": "iptools"
   },
   {
+    "package": "longurl",
+    "oncran": true
+  },
+  {
     "package": "metricsgraphics",
     "oncran": true
   },
@@ -44,6 +52,10 @@
   },
   {
     "package": "swatches",
+    "oncran": true
+  },
+  {
+    "package": "tdigest",
     "oncran": true
   },
   {

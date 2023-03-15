@@ -13,6 +13,11 @@
 	url = https://github.com/hrbrmstr/censys
 	shallow = true
 	registered = true
+[submodule "cymruservices"]
+	path = cymruservices
+	url = https://github.com/hrbrmstr/cymruservices
+	shallow = true
+	registered = true
 [submodule "darksky"]
 	path = darksky
 	url = https://github.com/hrbrmstr/darksky
@@ -38,6 +43,11 @@
 	url = https://github.com/hrbrmstr/iptools
 	shallow = true
 	registered = true
+[submodule "longurl"]
+	path = longurl
+	url = https://github.com/hrbrmstr/longurl
+	shallow = true
+	registered = true
 [submodule "metricsgraphics"]
 	path = metricsgraphics
 	url = https://github.com/hrbrmstr/metricsgraphics
@@ -61,6 +71,11 @@
 [submodule "swatches"]
 	path = swatches
 	url = https://github.com/hrbrmstr/swatches
+	shallow = true
+	registered = true
+[submodule "tdigest"]
+	path = tdigest
+	url = https://github.com/hrbrmstr/tdigest
 	shallow = true
 	registered = true
 [submodule "vegalite"]
