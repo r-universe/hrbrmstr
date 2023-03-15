@@ -1,26 +1,10 @@
 [
   {
-    "package": "cdcfluview",
-    "oncran": true
-  },
-  {
     "package": "censys",
     "oncran": true
   },
   {
-    "package": "darksky",
-    "oncran": true
-  },
-  {
-    "package": "epidata",
-    "oncran": true
-  },
-  {
-    "package": "ggalt",
-    "oncran": true
-  },
-  {
-    "package": "hrbrthemes",
+    "package": "vegalite",
     "oncran": true
   },
   {
@@ -28,15 +12,22 @@
     "oncran": true
   },
   {
-    "package": "ndjson",
-    "oncran": true
-  },
-  {
-    "package": "qrencoder",
-    "oncran": true
-  },
-  {
     "package": "spiderbar",
+    "oncran": true
+  },
+  {
+    "package": "iptools"
+  },
+  {
+    "package": "darksky",
+    "oncran": true
+  },
+  {
+    "package": "ggalt",
+    "oncran": true
+  },
+  {
+    "package": "cdcfluview",
     "oncran": true
   },
   {
@@ -44,7 +35,11 @@
     "oncran": true
   },
   {
-    "package": "vegalite",
+    "package": "epidata",
+    "oncran": true
+  },
+  {
+    "package": "qrencoder",
     "oncran": true
   },
   {
@@ -56,6 +51,11 @@
     "oncran": true
   },
   {
-    "package": "iptools"
+    "package": "ndjson",
+    "oncran": true
+  },
+  {
+    "package": "hrbrthemes",
+    "oncran": true
   }
 ]
