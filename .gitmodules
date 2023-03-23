@@ -63,6 +63,11 @@
 	url = https://github.com/hrbrmstr/qrencoder
 	shallow = true
 	registered = true
+[submodule "ropendata"]
+	path = ropendata
+	url = https://github.com/cran/ropendata
+	shallow = true
+	registered = true
 [submodule "spiderbar"]
 	path = spiderbar
 	url = https://github.com/hrbrmstr/spiderbar
