@@ -38,11 +38,6 @@
 	url = https://github.com/hrbrmstr/hrbrthemes
 	shallow = true
 	registered = true
-[submodule "iptools"]
-	path = iptools
-	url = https://github.com/hrbrmstr/iptools
-	shallow = true
-	registered = true
 [submodule "longurl"]
 	path = longurl
 	url = https://github.com/hrbrmstr/longurl
