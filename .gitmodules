@@ -23,6 +23,11 @@
 	url = https://github.com/hrbrmstr/darksky
 	shallow = true
 	registered = true
+[submodule "docxtractr"]
+	path = docxtractr
+	url = https://gitlab.com/hrbrmstr/docxtractr
+	shallow = true
+	registered = true
 [submodule "epidata"]
 	path = epidata
 	url = https://github.com/hrbrmstr/epidata
@@ -53,6 +58,11 @@
 	url = https://github.com/hrbrmstr/ndjson
 	shallow = true
 	registered = true
+[submodule "pluralize"]
+	path = pluralize
+	url = https://gitlab.com/hrbrmstr/pluralize
+	shallow = true
+	registered = true
 [submodule "qrencoder"]
 	path = qrencoder
 	url = https://github.com/hrbrmstr/qrencoder
@@ -63,9 +73,19 @@
 	url = https://github.com/cran/ropendata
 	shallow = true
 	registered = true
+[submodule "sergeant"]
+	path = sergeant
+	url = https://gitlab.com/hrbrmstr/sergeant
+	shallow = true
+	registered = true
 [submodule "spiderbar"]
 	path = spiderbar
 	url = https://github.com/hrbrmstr/spiderbar
+	shallow = true
+	registered = true
+[submodule "statebins"]
+	path = statebins
+	url = https://gitlab.com/hrbrmstr/statebins
 	shallow = true
 	registered = true
 [submodule "swatches"]
@@ -76,6 +96,16 @@
 [submodule "tdigest"]
 	path = tdigest
 	url = https://github.com/hrbrmstr/tdigest
+	shallow = true
+	registered = true
+[submodule "uaparserjs"]
+	path = uaparserjs
+	url = https://gitlab.com/hrbrmstr/uaparserjs
+	shallow = true
+	registered = true
+[submodule "ulid"]
+	path = ulid
+	url = https://gitlab.com/hrbrmstr/ulid
 	shallow = true
 	registered = true
 [submodule "vegalite"]
@@ -91,5 +121,10 @@
 [submodule "waffle"]
 	path = waffle
 	url = https://github.com/hrbrmstr/waffle
+	shallow = true
+	registered = true
+[submodule "wand"]
+	path = wand
+	url = https://gitlab.com/hrbrmstr/wand
 	shallow = true
 	registered = true
