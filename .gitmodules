@@ -1,130 +1,79 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cdcfluview"]
 	path = cdcfluview
 	url = https://github.com/hrbrmstr/cdcfluview
-	shallow = true
-	registered = true
 [submodule "censys"]
 	path = censys
 	url = https://github.com/hrbrmstr/censys
-	shallow = true
-	registered = true
 [submodule "cymruservices"]
 	path = cymruservices
 	url = https://github.com/hrbrmstr/cymruservices
-	shallow = true
-	registered = true
 [submodule "darksky"]
 	path = darksky
 	url = https://github.com/hrbrmstr/darksky
-	shallow = true
-	registered = true
 [submodule "docxtractr"]
 	path = docxtractr
 	url = https://gitlab.com/hrbrmstr/docxtractr
-	shallow = true
-	registered = true
 [submodule "epidata"]
 	path = epidata
 	url = https://github.com/hrbrmstr/epidata
-	shallow = true
-	registered = true
 [submodule "ggalt"]
 	path = ggalt
 	url = https://github.com/hrbrmstr/ggalt
-	shallow = true
-	registered = true
 [submodule "hrbrthemes"]
 	path = hrbrthemes
 	url = https://github.com/hrbrmstr/hrbrthemes
-	shallow = true
-	registered = true
 [submodule "longurl"]
 	path = longurl
 	url = https://github.com/hrbrmstr/longurl
-	shallow = true
-	registered = true
 [submodule "metricsgraphics"]
 	path = metricsgraphics
 	url = https://github.com/hrbrmstr/metricsgraphics
-	shallow = true
-	registered = true
 [submodule "ndjson"]
 	path = ndjson
 	url = https://github.com/hrbrmstr/ndjson
-	shallow = true
-	registered = true
 [submodule "pluralize"]
 	path = pluralize
 	url = https://gitlab.com/hrbrmstr/pluralize
-	shallow = true
-	registered = true
 [submodule "qrencoder"]
 	path = qrencoder
 	url = https://github.com/hrbrmstr/qrencoder
-	shallow = true
-	registered = true
 [submodule "ropendata"]
 	path = ropendata
 	url = https://github.com/cran/ropendata
-	shallow = true
-	registered = true
 [submodule "sergeant"]
 	path = sergeant
 	url = https://gitlab.com/hrbrmstr/sergeant
-	shallow = true
-	registered = true
 [submodule "spiderbar"]
 	path = spiderbar
 	url = https://github.com/hrbrmstr/spiderbar
-	shallow = true
-	registered = true
 [submodule "statebins"]
 	path = statebins
 	url = https://gitlab.com/hrbrmstr/statebins
-	shallow = true
-	registered = true
 [submodule "swatches"]
 	path = swatches
 	url = https://github.com/hrbrmstr/swatches
-	shallow = true
-	registered = true
 [submodule "tdigest"]
 	path = tdigest
 	url = https://github.com/hrbrmstr/tdigest
-	shallow = true
-	registered = true
 [submodule "uaparserjs"]
 	path = uaparserjs
 	url = https://gitlab.com/hrbrmstr/uaparserjs
-	shallow = true
-	registered = true
 [submodule "ulid"]
 	path = ulid
 	url = https://gitlab.com/hrbrmstr/ulid
-	shallow = true
-	registered = true
 [submodule "vegalite"]
 	path = vegalite
 	url = https://github.com/hrbrmstr/vegalite
-	shallow = true
-	registered = true
 [submodule "voteogram"]
 	path = voteogram
 	url = https://github.com/hrbrmstr/voteogram
-	shallow = true
-	registered = true
 [submodule "waffle"]
 	path = waffle
 	url = https://github.com/hrbrmstr/waffle
-	shallow = true
-	registered = true
 [submodule "wand"]
 	path = wand
 	url = https://gitlab.com/hrbrmstr/wand
-	shallow = true
-	registered = true
