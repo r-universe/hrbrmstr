@@ -5,9 +5,6 @@
 [submodule "cdcfluview"]
 	path = cdcfluview
 	url = https://github.com/hrbrmstr/cdcfluview
-[submodule "censys"]
-	path = censys
-	url = https://github.com/hrbrmstr/censys
 [submodule "cymruservices"]
 	path = cymruservices
 	url = https://github.com/hrbrmstr/cymruservices
