@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cdcfluview"]
-	path = cdcfluview
-	url = https://github.com/hrbrmstr/cdcfluview
 [submodule "cymruservices"]
 	path = cymruservices
 	url = https://github.com/hrbrmstr/cymruservices
