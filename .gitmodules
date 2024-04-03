@@ -56,9 +56,6 @@
 [submodule "uaparserjs"]
 	path = uaparserjs
 	url = https://gitlab.com/hrbrmstr/uaparserjs
-[submodule "ulid"]
-	path = ulid
-	url = https://gitlab.com/hrbrmstr/ulid
 [submodule "vegalite"]
 	path = vegalite
 	url = https://github.com/hrbrmstr/vegalite
