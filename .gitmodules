@@ -29,9 +29,6 @@
 [submodule "ndjson"]
 	path = ndjson
 	url = https://github.com/hrbrmstr/ndjson
-[submodule "pluralize"]
-	path = pluralize
-	url = https://gitlab.com/hrbrmstr/pluralize
 [submodule "qrencoder"]
 	path = qrencoder
 	url = https://github.com/hrbrmstr/qrencoder
