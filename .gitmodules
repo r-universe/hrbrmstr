@@ -23,9 +23,6 @@
 [submodule "longurl"]
 	path = longurl
 	url = https://github.com/hrbrmstr/longurl
-[submodule "metricsgraphics"]
-	path = metricsgraphics
-	url = https://github.com/hrbrmstr/metricsgraphics
 [submodule "ndjson"]
 	path = ndjson
 	url = https://github.com/hrbrmstr/ndjson
