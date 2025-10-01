@@ -14,9 +14,6 @@
 [submodule "epidata"]
 	path = epidata
 	url = https://github.com/hrbrmstr/epidata
-[submodule "ggalt"]
-	path = ggalt
-	url = https://github.com/hrbrmstr/ggalt
 [submodule "hrbrthemes"]
 	path = hrbrthemes
 	url = https://github.com/hrbrmstr/hrbrthemes
