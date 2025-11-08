@@ -14,9 +14,6 @@
 [submodule "epidata"]
 	path = epidata
 	url = https://github.com/hrbrmstr/epidata
-[submodule "hrbrthemes"]
-	path = hrbrthemes
-	url = https://github.com/hrbrmstr/hrbrthemes
 [submodule "longurl"]
 	path = longurl
 	url = https://github.com/hrbrmstr/longurl
@@ -53,9 +50,6 @@
 [submodule "voteogram"]
 	path = voteogram
 	url = https://github.com/hrbrmstr/voteogram
-[submodule "waffle"]
-	path = waffle
-	url = https://github.com/hrbrmstr/waffle
 [submodule "wand"]
 	path = wand
 	url = https://github.com/hrbrmstr/wand
