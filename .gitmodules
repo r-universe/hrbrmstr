@@ -41,9 +41,6 @@
 [submodule "tdigest"]
 	path = tdigest
 	url = https://github.com/hrbrmstr/tdigest
-[submodule "uaparserjs"]
-	path = uaparserjs
-	url = https://github.com/hrbrmstr/uaparserjs
 [submodule "vegalite"]
 	path = vegalite
 	url = https://github.com/hrbrmstr/vegalite
