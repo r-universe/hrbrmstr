@@ -38,9 +38,6 @@
 [submodule "swatches"]
 	path = swatches
 	url = https://github.com/hrbrmstr/swatches
-[submodule "tdigest"]
-	path = tdigest
-	url = https://github.com/hrbrmstr/tdigest
 [submodule "vegalite"]
 	path = vegalite
 	url = https://github.com/hrbrmstr/vegalite
