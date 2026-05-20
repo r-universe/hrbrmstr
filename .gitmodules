@@ -26,9 +26,6 @@
 [submodule "qrencoder"]
 	path = qrencoder
 	url = https://github.com/hrbrmstr/qrencoder
-[submodule "ropendata"]
-	path = ropendata
-	url = https://github.com/cran/ropendata
 [submodule "sergeant"]
 	path = sergeant
 	url = https://github.com/hrbrmstr/sergeant
