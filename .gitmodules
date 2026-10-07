@@ -16,7 +16,7 @@
 	url = https://github.com/hrbrmstr/epidata
 [submodule "hrbrthemes"]
 	path = hrbrthemes
-	url = https://github.com/cran/hrbrthemes
+	url = https://github.com/hrbrmstr/hrbrthemes
 [submodule "longurl"]
 	path = longurl
 	url = https://github.com/hrbrmstr/longurl
